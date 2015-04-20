@@ -14,3 +14,7 @@ editing `.git/config`:
 	remote = origin
 	merge = refs/heads/master
 ```
+
+## LICENSE
+
+MIT. See `license.md` for details.
