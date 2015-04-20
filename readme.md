@@ -15,6 +15,10 @@ editing `.git/config`:
 	merge = refs/heads/master
 ```
 
+## Contributing
+
+See `see boilerplate.sh`.
+
 ## LICENSE
 
 MIT. See `license.md` for details.
